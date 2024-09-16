@@ -1,2 +1,1 @@
-# vuminhngocpt-gmail.com
-Kho lưu trữ của VMN
+Trang Chủ Web | Vũ Minh Ngọc ©
