@@ -2,7 +2,7 @@
 
 
 
-#### Rất vui được gặp bạn ở đây tôi lập trang cá nhân này để lưu lại những kỷ niệm và chia sẻ mọi thứ mà tôi biết ,trang hơi đểu nhưng mong giúp được các bạn cái gì đó 
+#### Rất vui được gặp bạn ở đây tôi lập trang cá nhân này để lưu lại những kỷ niệm và chia sẻ mọi thứ mà tôi biết ,trang hơi đểu nhưng mong giúp được các bạn cái gì đó , Web này xem trên iPhone sẽ tương thích tốt nhất các trình duyệt khác sẽ hơi khó để đọc , xin thông cảm tôi không mua tên miền nên dùng đồ miễn phí 😹
 
 
 
@@ -14,6 +14,6 @@ o
 
 
 
-       © 2024 Vu Minh Ngoc 
+            © 2024 Vu Minh Ngoc 
 
 
