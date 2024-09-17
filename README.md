@@ -12,7 +12,7 @@ o
 
 
 
-[Vào Nhóm Zalo Yêu Công Nghệ](https://zalo.me/g/ldrfrp693)
+👬👬💥[Vào Nhóm Zalo Yêu Công Nghệ](https://zalo.me/g/ldrfrp693)
 
 ####    Vào Nhóm Zalo Của Tôi Ở Đây
         
