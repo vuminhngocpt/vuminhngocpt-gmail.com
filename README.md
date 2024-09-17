@@ -12,9 +12,9 @@ o
 
 
 
-👬👬💥[Vào Nhóm Zalo Yêu Công Nghệ](https://zalo.me/g/ldrfrp693) `đây là nhóm chính thức của Admin các bạn vào để hỏi đáp cũng như gặp mình cho nó tiện anh em cùng nhau giao lưu học hỏi lẫn nhau quá tốt `
+💥[Vào Nhóm Zalo Yêu Công Nghệ](https://zalo.me/g/ldrfrp693) `đây là nhóm chính thức của Admin các bạn vào để hỏi đáp cũng như gặp mình cho nó tiện anh em cùng nhau giao lưu học hỏi lẫn nhau quá tốt `
 
-####    Vào Nhóm Zalo Của Tôi Ở Đây
+#### Đang tải thêm dữ liêu mới ...
         
 
             © 2024 Vu Minh Ngoc 
