@@ -14,7 +14,8 @@ o
 
 💥[Vào Nhóm Zalo Yêu Công Nghệ](https://zalo.me/g/ldrfrp693) `đây là nhóm chính thức của Admin các bạn vào để hỏi đáp cũng như gặp mình cho nó tiện anh em cùng nhau giao lưu học hỏi lẫn nhau quá tốt `
 
-[Hỗ Trợ Tiền Cho Tôi Ở Đây](https://github.com/vuminhngocpt/H-Tr-T-i)
+💥[Hỗ Trợ Tiền Cho Tôi Ở Đây](https://github.com/vuminhngocpt/H-Tr-T-i) 
+`Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng hiện tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ `
 
 
 
