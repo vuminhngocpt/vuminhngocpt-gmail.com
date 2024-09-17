@@ -2,7 +2,7 @@
 
 
 
-#### Rất vui được gặp bạn ở đây tôi lập trang cá nhân này để lưu lại những kỷ niệm và chia sẻ mọi thứ mà tôi biết ,trang hơi đểu nhưng mong giúp được các bạn cái gì đó , Web này xem trên iPhone sẽ tương thích tốt nhất các trình duyệt khác sẽ hơi khó để đọc , xin thông cảm tôi không mua tên miền nên dùng đồ miễn phí 😹
+#### Trang này hỗ trợ tốt nhất cho iPhone các thiết bị khác có thể không được hỗ trợ đọc sẽ hơi khó và các ký tự có thể bị đảo lộn mình lưu ý vậy vì mình đang dùng code trên iPhone mình không biết các thiết bị khác có hiện thị đúng như mình mong muốn không 
 
 
 
