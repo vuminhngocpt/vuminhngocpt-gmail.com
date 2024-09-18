@@ -1,7 +1,7 @@
 ###         Xin Chào  🥰 
 
 ✅ [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
-
+💥 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
 
 #### Trang này hỗ trợ tốt nhất cho iPhone các thiết bị khác có thể không được hỗ trợ đọc sẽ hơi khó và các ký tự có thể bị đảo lộn mình lưu ý vậy vì mình đang dùng code trên iPhone mình không biết các thiết bị khác có hiện thị đúng như mình mong muốn không 
 
