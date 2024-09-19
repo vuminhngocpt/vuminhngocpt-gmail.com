@@ -7,7 +7,7 @@
 👾 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
 
 
-#### Trang này hỗ trợ tốt nhất cho iPhone các thiết bị khác có thể không được hỗ trợ đọc sẽ hơi khó và các ký tự có thể bị đảo lộn mình lưu ý vậy vì mình đang dùng code trên iPhone mình không biết các thiết bị khác có hiện thị đúng như mình mong muốn không 
+#### Trang này hỗ trợ tốt nhất cho iPhone 
 
 
 
