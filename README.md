@@ -22,7 +22,7 @@ o
 💥[Hỗ Trợ Tiền Cho Tôi Ở Đây](https://github.com/vuminhngocpt/H-Tr-T-i) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng hiện tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ `
 
-
+💥 [ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md)
 
 #### Đang tải thêm dữ liêu mới ...
         
