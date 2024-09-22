@@ -16,7 +16,7 @@ o
 
 
 
-💥[Vào Nhóm Zalo Cộng Đồng Của Tôi](https://zalo.me/g/ldrfrp693) `đây là nhóm chính thức của Admin các bạn vào để hỏi đáp cũng như gặp mình cho nó tiện anh em cùng nhau giao lưu học hỏi lẫn nhau quá tốt `
+💥[Tâm Sự Của Tôi](https://zalo.me/g/ldrfrp693) `ở đây là tâm sự của tôi và tiểu sử cũng như giới thiệu thay vì vào Fb zalo tôi viết ở đây cho những ai thực sự quan tâm tôi`
 
 💥[Hỗ Trợ Tiền Ủng Hộ Tôi](https://github.com/vuminhngocpt/H-Tr-T-i) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ `
