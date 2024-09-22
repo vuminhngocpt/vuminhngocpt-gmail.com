@@ -1,11 +1,10 @@
 ###         Xin Chào  🥰 
 
 (kết nối với tôi qua )
-
 🧩 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
 👾 [Tiktok](https://www.tiktok.com/@vuminhngoc113?_t=8poWrP6S3M8&_r=1)
-
+🧩 [Zalo](https://zalo.me/g/ldrfrp693)
 
 #### Trang này hỗ trợ tốt nhất cho iPhone 
 
