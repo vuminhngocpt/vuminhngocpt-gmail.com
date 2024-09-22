@@ -18,7 +18,7 @@ o
 
 💥[Tâm Sự Của Tôi](https://zalo.me/g/ldrfrp693) `ở đây là tâm sự của tôi và tiểu sử cũng như giới thiệu thay vì vào Fb zalo tôi viết ở đây cho những ai thực sự quan tâm tôi`
 
-💥[Hỗ Trợ Tiền Ủng Hộ Tôi](https://github.com/vuminhngocpt/H-Tr-T-i) 
+💥[Hỗ Trợ Tiền Cho Tôi](https://github.com/vuminhngocpt/H-Tr-T-i) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ `
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
