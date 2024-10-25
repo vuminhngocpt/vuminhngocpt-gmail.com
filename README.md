@@ -16,7 +16,7 @@ o
 
 
 
-💥[Thông Tin Về Admin](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `ở đây là tâm sự của tôi và tiểu sử cũng như giới thiệu thay vì vào Fb zalo tôi viết ở đây cho những ai thực sự quan tâm tôi`
+💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `ở đây là tâm sự của tôi và tiểu sử cũng như giới thiệu thay vì vào Fb zalo tôi viết ở đây cho những ai thực sự quan tâm tôi`
 
 💥[Hỗ Trợ Tiền Cho Tôi](https://github.com/vuminhngocpt/H-Tr-T-i) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ `
