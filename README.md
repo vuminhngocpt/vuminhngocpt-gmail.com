@@ -23,7 +23,7 @@ o
 
 💥 [Frimware-ROM-Bios](https://github.com/vuminhngocpt/Up-rom/blob/main/README.md) `vào đây để tải các bản phần mềm hệ thống cho các loại thiết bị ở đây tôi chỉ mới cung cấp được cho nokia là chính chủ còn các hãng khác vẫn chưa có nhiều tôi sẽ đưa bạn đến các trang tải khác sẽ có cảnh báo nếu không phải trang của tôi`
 
-[Ứng dụng Cho Nokia Cũ](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ như N8 hay S60v3 cũ E72 và nhiều hơn nữa xin lưu ý tôi chưa test nên các bạn cũng tự chịu trách nhiệm khi sử dụng các ứng dụng tôi đang cung cấp không báo cáo để không bị xóa link`
+🗂️ [Ứng dụng Cho Nokia Cũ](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ như N8 hay S60v3 cũ E72 và nhiều hơn nữa xin lưu ý tôi chưa test nên các bạn cũng tự chịu trách nhiệm khi sử dụng các ứng dụng tôi đang cung cấp không báo cáo để không bị xóa link`
 
 #### Đang tải thêm dữ liêu mới ...
         
