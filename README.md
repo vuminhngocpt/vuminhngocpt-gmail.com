@@ -25,6 +25,10 @@ o
 
 🗂️ [Ứng dụng Và Trò Chơi Cho Nokia Cũ](https://github.com/vuminhngocpt/Ungdungs60/blob/main/README.md) `vào đây để tải ứng dụng cho các dòng nokia cổ như N8 hay S60v3 cũ E72 và nhiều hơn nữa xin lưu ý tôi chưa test nên các bạn cũng tự chịu trách nhiệm khi sử dụng các ứng dụng tôi đang cung cấp không báo cáo để không bị xóa link`
 
+🧩 [Ứng Dụng Windows Pc](test) Những Ứng Dụng Mà Admin Thấy Là Phải Cần Có Pc Của Team thường hay có những ứng dụng này
+
+
+
 #### Đang tải thêm dữ liêu mới ...
         
 
