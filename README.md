@@ -1,4 +1,5 @@
-###         Xin Chào  🥰  Trang Web Tạm Ngưng , Bạn Vui Lòng Vào : 
+###         Xin Chào  🥰  Trang Web Tạm Ngưng , Bạn Vui Lòng Vào Trang Mới , Tôi Sẽ Không Cập Nhật Ở Đây Nữa 
+
 (kết nối với tôi qua )
 🧩 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
@@ -11,11 +12,11 @@
 
 o
 
-   💥 [Trang Web Cũ](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây là chính chưa chuyển 100% dữ liệu sang github vì ý do tương thích các thiết bị mong anh em ủng hộ tôi , tôi sẽ cố gắng hỗ trợ các dòng cổ cũ lâu nhất có thế  `
+   💥 [Trang Web Cũ - Tạm Ngưng](http://vmnit.mobie.in)`đây là trang web giao diện cũ cho nokia và trình duyệt cổ tôi vẫn còn cập nhật ở đây là chính chưa chuyển 100% dữ liệu sang github vì ý do tương thích các thiết bị mong anh em ủng hộ tôi , tôi sẽ cố gắng hỗ trợ các dòng cổ cũ lâu nhất có thế  `
 
 
 
-💥[Thông Tin Và Điều Khoản Sử Dụng](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `bạn vui lòng tham khảo các điều khoản sử dụng của tôi và xem thông tin nhóm chúng tôi ở đây để không để các sự việc ... xin hãy bỏ chút thời gian để tìm hiểu nó`
+💥[Thông Tin Và Điều Khoản Sử Dụng - Hết Hiệu Lực](https://github.com/vuminhngocpt/Tam-su-cua-toi/blob/main/README.md) `bạn vui lòng tham khảo các điều khoản sử dụng của tôi và xem thông tin nhóm chúng tôi ở đây để không để các sự việc ... xin hãy bỏ chút thời gian để tìm hiểu nó`
 
 💥[Hỗ Trợ Và Đóng Góp](https://github.com/vuminhngocpt/H-Tr-T-i) 
 `Trang này bạn có thể cho tôi tiền ủng hộ các dự án của tôi bằng tiền để tôi có động lực thêm chút ít để ngồi viết code xin chân thành cảm ơn bạn đã ủng hộ . Bạn cũng có thể chia sẻ những thứ mà mình biết hoặc đóng góp code cho tôi`
@@ -32,6 +33,6 @@ o
 #### Đang tải thêm dữ liêu mới ...
         
 
-            © 2024 Vu Minh Ngoc 
+            © 2025 Vũ Minh Ngọc
 
 
