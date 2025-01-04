@@ -1,5 +1,4 @@
-###         Xin Chào  🥰  Trang Web Tạm Ngưng , Bạn Vui Lòng Vào Trang Mới , Tôi Sẽ Không Cập Nhật Ở Đây Nữa 
-
+## Trang Web Tạm Ngưng Hoạt Động
 (kết nối với tôi qua )
 🧩 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
