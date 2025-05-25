@@ -2,6 +2,8 @@
 
 ### Sự Cố Kết Nối , Trang Web Này Sẽ Bị Lỗi Đồng Bộ Từ Máy Chủ , Thành Phần Web Không Được Cập Nhật 
 
+### [Trang Web Mới](https://github.com/vuminhngocpt/trang-chu)
+
 ### Sự Cố Được Báo Cáo
 
     - Đã Có Sự Cố E758432 
