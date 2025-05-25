@@ -1,4 +1,4 @@
-### Trang Web Này Đã Ngưng Hoạt Động Vui Lòng VÀo Trang Chủ hoặc github.com/vuminhngocpt/trang-chu  Xin Cảm Ơn Hẹn Gặp Lại 
+### Trang Web Này Đã Ngưng Hoạt Động Vui Lòng Vào [Trang Web Mới](https://github.com/vuminhngocpt/trang-chu) Xin Cảm Ơn
 
 ### Sự Cố Kết Nối , Trang Web Này Sẽ Bị Lỗi Đồng Bộ Từ Máy Chủ , Thành Phần Web Không Được Cập Nhật 
 
