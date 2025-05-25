@@ -1,4 +1,6 @@
-## Trang Web Tạm Ngưng Hoạt Động
+### Trang Web Này Đã Ngưng Hoạt Động Vui Lòng VÀo Trang Chủ hoặc github.com/vuminhngocpt/trang-chu  Xin Cảm Ơn Hẹn Gặp Lại 
+
+
 (kết nối với tôi qua )
 🧩 [Facebook](https://www.facebook.com/share/ndTFfxYv341qvp2u/?mibextid=LQQJ4d)
 📺 [Youtube](https://youtube.com/@vmnit?si=6dEH_U5U6u3dkWKH)
